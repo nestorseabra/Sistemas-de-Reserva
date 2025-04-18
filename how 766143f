@@ -1,0 +1,24 @@
+[33mcommit 766b1431fc4bbe488faa087fe62a859f04f2cbcd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: elojorge <elojorgedog@gmail.com>
+Date:   Fri Apr 18 17:43:58 2025 -0300
+
+    primeiro modelo de user
+
+[33mcommit 6641f5e7f0d386c4c9c9691cb8758fb8ad724aba[m
+Merge: 8750f47 6c4a534
+Author: Nestor <nestorseabraneto@gmail.com>
+Date:   Thu Apr 17 17:34:13 2025 -0300
+
+    Merge remoto com arquivos locais
+
+[33mcommit 8750f4793305a808c16c472c1cae66f26c9553ce[m
+Author: Nestor <nestorseabraneto@gmail.com>
+Date:   Thu Apr 17 17:14:51 2025 -0300
+
+    primeira estrutura
+
+[33mcommit 6c4a534cfa399ca439a50768c2fbbbaa8cda612a[m
+Author: nestorseabra <nestorseabraneto@gmail.com>
+Date:   Sun Apr 6 17:35:00 2025 -0300
+
+    Initial commit
